@@ -1,6 +1,6 @@
 # 📋 Features
 - [📋 Features](#-features)
-  - [Player](#player)
+  - [Player](#player) k
     - [NoClip](#noclip)
     - [SpeedBoost](#speedboost)
     - [NoCooldowns](#nocooldowns)
